@@ -1,0 +1,5 @@
+/Users/bett/practice/rust-hello/hello-cargo/target/debug/deps/hello_cargo-403987b8fd4a4803.d: src/main.rs
+
+/Users/bett/practice/rust-hello/hello-cargo/target/debug/deps/libhello_cargo-403987b8fd4a4803.rmeta: src/main.rs
+
+src/main.rs:
