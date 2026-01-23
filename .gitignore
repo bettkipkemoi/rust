@@ -1,0 +1,5 @@
+# Ignore the Makefile
+Makefile
+
+# ignore target
+/target
