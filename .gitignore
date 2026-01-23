@@ -2,4 +2,4 @@
 Makefile
 
 # ignore target
-/target
+target/
