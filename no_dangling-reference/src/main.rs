@@ -4,7 +4,7 @@ println!("{reference_to_s}")
 }
 
 fn no_dangle() -> String { // dangle & could have returned a reference to a String
-    let s = String::from("hello"); // s is a new String
+    let s = String::from("hello bett"); // s is a new String
     s // dangle & could have returned a reference to the String, s
 } 
 
