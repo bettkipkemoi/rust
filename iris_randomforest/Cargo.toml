@@ -1,0 +1,12 @@
+[package]
+name = "iris_randomforest"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+smartcore = "0.4.9"
+datasets = "0.0.1"
+linfa = "0.8.1", path = ".."
+
+[features]
+iris = []

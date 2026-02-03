@@ -1,5 +1,6 @@
 # Ignore the Makefile
 Makefile
-Cargo.toml
+makefile
+
 # ignore target
 target/
