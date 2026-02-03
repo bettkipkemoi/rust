@@ -1,11 +1,2 @@
-# Ignore the Makefile
-Makefile
-makefile
-
-# ignore target and any executables
 **/target/
-
-#personal files
-.DS_Store
-*.rs.bk
-*~
+**/debug/
